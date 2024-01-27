@@ -67,6 +67,6 @@
   "map": [
     "share:rw"
   ],
-  "url": "https://github.com/matt-FFFFFF/hassio-addon-repository/blob/master/teslamate/README.md",
-  "image": "mattffffff/teslamate-{arch}"
+  "url": "https://github.com/PAPAMICA/hassio-addon-repository/blob/master/teslamate/README.md",
+  "image": "PAPAMICA/teslamate-{arch}"
 }
